@@ -1,0 +1,7 @@
+/config.h.in~
+*.o
+/wormwar
+/Makefile
+/stamp-h1
+/config.h
+.deps
